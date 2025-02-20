@@ -25,6 +25,7 @@ I'm currently seeking new opportunities to apply my skills and grow as part of a
 ### Tools & Platforms
 - Git & GitHub
 - Docker
+- Kafka
 
 ### Databases
 - MySQL
