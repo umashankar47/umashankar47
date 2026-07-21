@@ -10,32 +10,53 @@ I'm currently seeking new opportunities to apply my skills and grow as part of a
 
 ## 🛠️ Skills
 
-### Programming Languages
-- Java
+### Languages
+- Java (8/11/17)
 - Python
 - SQL
-- HTML/CSS
+- JavaScript
+- HTML5
+- CSS3
 
-### Frameworks & Libraries
+### Backend Development
 - Spring Boot
+- Spring MVC
+- Spring Data JPA (Hibernate)
+- REST APIs
+- Microservices
 - Flask
 - Django
-- Tkinter
-
-### Tools & Platforms
-- Git
-- Docker
-- Kafka
 
 ### Databases
-- MySQL
 - PostgreSQL
-- OracleDB
+- MySQL
+- Oracle Database
+- Redis (Basic)
 
-### Other
-- RESTful APIs
-- Microservices Architecture
-- Agile & Scrum
+### Messaging & Event Streaming
+- Apache Kafka
+
+### DevOps & Cloud
+- Git & GitHub
+- Docker
+- Maven
+- Gradle
+- Linux
+- AWS (Basic)
+
+### Testing
+- JUnit 5
+- Mockito
+- Postman
+
+### Architecture & Concepts
+- Object-Oriented Programming (OOP)
+- Design Patterns
+- SOLID Principles
+- RESTful API Design
+- Database Design
+- Multithreading & Concurrency
+- Agile (Scrum)
 
 ## 📫 Get in Touch
 
