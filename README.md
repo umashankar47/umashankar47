@@ -1,5 +1,5 @@
 
-[![Website](https://img.shields.io/badge/website-portfolio-lightgrey)](https://umashankar.carrd.co/) [LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/umashankar-sharma) [! [![Email](https://img.shields.io/badge/Email-you%40example.com-D14836)](mailto:uss3541@gmail.com)
+[![Website](https://img.shields.io/badge/website-portfolio-lightgrey)](https://umashankar.carrd.co/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/umashankar-sharma) [![Email](https://img.shields.io/badge/Email-you%40example.com-D14836)](mailto:uss3541@gmail.com)
 
 
 Software Developer 
