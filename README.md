@@ -1,12 +1,9 @@
-## 👋 Hi, I'm Umashankar Sharma,
+
+[![Website](https://img.shields.io/badge/website-portfolio-lightgrey)](https://umashankar.carrd.co/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/umashankar-sharma) [! [![Email](https://img.shields.io/badge/Email-you%40example.com-D14836)](mailto:uss3541@gmail.com)
 
 
-## 🚀 About Me
+Software Developer 
 
-I'm a Software Developer with over 4 years of experience in building robust and scalable applications. I specialize in backend development, and have a strong foundation in data structures and algorithms. 
-I'm currently seeking new opportunities to apply my skills and grow as part of a dynamic team.
-
- 📫 How to reach me: [uss3541@gmail.com](mailto:uss3541@gmail.com)
 
 ## 🛠️ Skills
 
@@ -16,7 +13,7 @@ I'm currently seeking new opportunities to apply my skills and grow as part of a
 - SQL
 - JavaScript
 - HTML5
-- CSS3
+- CSS
 
 ### Backend Development
 - Spring Boot
